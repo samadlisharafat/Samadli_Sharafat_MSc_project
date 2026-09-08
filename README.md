@@ -1,4 +1,4 @@
-Extending Population-Level Trajectory Memory with Declarative Memory: A Fusion-Based Approach
+**Extending Population-Level Trajectory Memory with Declarative Memory: A Fusion-Based Approach**
 
 MSc project extending MATM's procedural trajectory memory with a novel declarative knowledge source (K2), combined via a fusion mechanism adapted from HF-RAG. Evaluated on ALFWorld.
 
