@@ -10,6 +10,10 @@ source_code/ — retrieval, fusion, and evaluation pipeline; K2 construction; le
 results_and_outputs/ — full per-episode evaluation logs (all conditions), statistical validation scripts and results
 
 
+
+
+
+
 **Original Works Referenced**
 
 **MATM** (procedural memory architecture, extended in this work):
