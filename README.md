@@ -7,6 +7,7 @@ MSc project extending MATM's procedural trajectory memory with a novel declarati
 MSc_project_2920686S.zip contains:
 
 source_code/ — retrieval, fusion, and evaluation pipeline; K2 construction; learning-to-rank models
+
 results_and_outputs/ — full per-episode evaluation logs (all conditions), statistical validation scripts and results
 
 
