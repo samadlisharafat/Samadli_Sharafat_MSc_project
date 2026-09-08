@@ -2,12 +2,17 @@
 
 MSc project extending MATM's procedural trajectory memory with a novel declarative knowledge source (K2), combined via a fusion mechanism adapted from HF-RAG. Evaluated on ALFWorld.
 
-Contents
+**Contents**
 
 MSc_project_2920686S.zip contains:
 
 source_code/ — retrieval, fusion, and evaluation pipeline; K2 construction; learning-to-rank models
 results_and_outputs/ — full per-episode evaluation logs (all conditions), statistical validation scripts and results
+
+
+**Original Works Referenced**
+
+**MATM **(procedural memory architecture, extended in this work):
 
 @article{kim2026multiagenttransactivememory,
       title={Multi-Agent Transactive Memory}, 
@@ -20,7 +25,7 @@ results_and_outputs/ — full per-episode evaluation logs (all conditions), stat
 }
 
 
-HF-RAG (fusion mechanism, adapted in this work):
+**HF-RAG** (fusion mechanism, adapted in this work):
 
 @inproceedings{santra2025hfrag,
       title={HF-RAG: Hierarchical Fusion-based RAG with Multiple Sources and Rankers},
@@ -30,9 +35,9 @@ HF-RAG (fusion mechanism, adapted in this work):
       url={https://arxiv.org/abs/2509.02837},
 }
 
-Dataset
+**Dataset**
 
-ALFWorld (evaluation environment and source of K1's training trajectories):
+**ALFWorld** (evaluation environment and source of K1's training trajectories):
 
 @inproceedings{ALFWorld20,
   title={{ALFWorld: Aligning Text and Embodied Environments for Interactive Learning}},
